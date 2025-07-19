@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate developer skilled in **Java**, **Go**, **Node.js**, and **Vue**
+- 💻 Passionate developer skilled in **Java**, **Go**, **Node.js**,**Rust**, and **Vue**
 - 🌱 Always learning new technologies and best practices
 - ⚡ Love building scalable backends and dynamic frontends
 - 🧩 Enjoy solving complex problems and collaborating on open-source
