@@ -20,16 +20,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=whispin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=whispin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=whispin&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whispin&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-</p>
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whispin&theme=gruvbox">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whispin&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whispin&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whispin&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whispin&theme=gruvbox&utcOffset=-8">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=whispin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=whispin&theme=gruvbox">
+</div>
 
 
 
